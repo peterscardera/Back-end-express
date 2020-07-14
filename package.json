@@ -1,0 +1,25 @@
+{
+  "name": "thinkwell",
+  "version": "1.0.0",
+  "description": "tech test",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server",
+    "dev": "nodemon src/server",
+    "test": "mocha src/test"
+  },
+  "author": "Peter Scardera",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.23.3"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4",
+    "supertest": "^4.0.2"
+  }
+}
