@@ -1,5 +1,5 @@
-# ThinkWell Test
-
+#  Test
+Master branch contains the answer at the 1h mark. Branch 'aftertime' contains me finishing it for fun
 ## Pré-requis
 
 - Docker desktop
