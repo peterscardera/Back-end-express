@@ -1,7 +1,4 @@
 #  Test
-- **branch 'master' is what I finished at the 1hour mark**
-Note: I should have used filter instead of find for line 25 in routeHandlers.js. time:3:25pm
-- **branch 'aftertime' is the finished version I continued for fun**
 
 ## Pré-requis
 
